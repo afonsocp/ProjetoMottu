@@ -3,7 +3,7 @@
 API para gerenciamento de motos em pátios, desenvolvida com ASP.NET Core e Entity Framework Core.
 
 ## Repositório GitHub
-- https://github.com/afonsocp/ProjetoMottu.NET
+- https://github.com/afonsocp/ProjetoMottu
 
 ## Participantes
 - Afonso Correia Pereira - RM557863
